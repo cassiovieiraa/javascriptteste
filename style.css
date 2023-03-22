@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: lightskyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+}
+
+section{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.479);
+    
+}
+div{
+    margin: auto;
+    padding: 20px;
+}
+
+footer{
+    text-align: center;
+    margin: 30px;
+    color: white;
+    font-style: italic;
+    font-size: 1.2em;
+}
